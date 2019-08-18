@@ -1,0 +1,17 @@
+C:\Users\Austin\source\repos\LeetCode\LeetCode\Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Austin\source\repos\LeetCode\LeetCode\Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Austin\source\repos\LeetCode\LeetCode\Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Austin\source\repos\LeetCode\LeetCode\Tests\bin\Debug\netcoreapp2.2\Tests.deps.json
+C:\Users\Austin\source\repos\LeetCode\LeetCode\Tests\bin\Debug\netcoreapp2.2\Tests.runtimeconfig.json
+C:\Users\Austin\source\repos\LeetCode\LeetCode\Tests\bin\Debug\netcoreapp2.2\Tests.runtimeconfig.dev.json
+C:\Users\Austin\source\repos\LeetCode\LeetCode\Tests\bin\Debug\netcoreapp2.2\Tests.dll
+C:\Users\Austin\source\repos\LeetCode\LeetCode\Tests\bin\Debug\netcoreapp2.2\Tests.pdb
+C:\Users\Austin\source\repos\LeetCode\LeetCode\Tests\bin\Debug\netcoreapp2.2\Problems.dll
+C:\Users\Austin\source\repos\LeetCode\LeetCode\Tests\bin\Debug\netcoreapp2.2\Problems.pdb
+C:\Users\Austin\source\repos\LeetCode\LeetCode\Tests\obj\Debug\netcoreapp2.2\Tests.csprojAssemblyReference.cache
+C:\Users\Austin\source\repos\LeetCode\LeetCode\Tests\obj\Debug\netcoreapp2.2\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Austin\source\repos\LeetCode\LeetCode\Tests\obj\Debug\netcoreapp2.2\Tests.AssemblyInfoInputs.cache
+C:\Users\Austin\source\repos\LeetCode\LeetCode\Tests\obj\Debug\netcoreapp2.2\Tests.AssemblyInfo.cs
+C:\Users\Austin\source\repos\LeetCode\LeetCode\Tests\obj\Debug\netcoreapp2.2\Tests.csproj.CopyComplete
+C:\Users\Austin\source\repos\LeetCode\LeetCode\Tests\obj\Debug\netcoreapp2.2\Tests.dll
+C:\Users\Austin\source\repos\LeetCode\LeetCode\Tests\obj\Debug\netcoreapp2.2\Tests.pdb
